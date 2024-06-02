@@ -21,3 +21,4 @@ tap new 1
 from side 1
 side to 1
 which seek 1
+B2
