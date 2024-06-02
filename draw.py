@@ -1,6 +1,7 @@
 import networkx as nx
 import matplotlib.pyplot as plt
 #修改
+#修改
 G = nx.DiGraph()
 file_path = "graph.txt" 
 
