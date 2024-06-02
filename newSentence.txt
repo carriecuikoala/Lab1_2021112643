@@ -1,2 +1,5 @@
 Seek to explore new and exciting synergies
-B2
+<<<<<<< HEAD
+<<<<<<< HEAD
+C4
+>>>>>>> B1
